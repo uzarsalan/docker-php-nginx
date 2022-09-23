@@ -14,6 +14,7 @@ RUN apk add --no-cache \
   php81-curl \
   php81-dom \
   php81-fpm \
+  php81-sodium \
   php81-gd \
   php81-intl \
   php81-mbstring \
